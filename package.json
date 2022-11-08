@@ -6,8 +6,8 @@
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
-    "react": "^0.0.0-experimental-1a3f1afbd",
-    "react-dom": "^0.0.0-experimental-1a3f1afbd",
+    "react": "^0.0.0-experimental-1e3e30dae-20221108",
+    "react-dom": "^0.0.0-experimental-1e3e30dae-20221108",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
